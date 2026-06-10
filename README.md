@@ -1,25 +1,104 @@
-<h1 align="center">Hi 👋, I'm Bairavaswamy Bondi</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [JobbyApp](https://github.com/bairavaswamy/JobbyApp)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bairavaswamy%20Bondi&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SEO%20Analyst&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-- 🌱 I’m currently learning **Angular,Java,Jquery,AWS (Devops)**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;SEO+Analyst+%F0%9F%94%8D;Node.js+%7C+Next.js+%7C+React.js+Expert;Building+Real-World+Safety+Solutions;Open+to+Collaborations!" alt="Typing SVG" />
 
-- 👯 I’m looking to collaborate on [SimpleCarGame](https://github.com/bairavaswamy/Cargame)
+</div>
 
-- 🤝 I’m looking for help with [ProfileWebsite](https://github.com/bairavaswamy/ProfileWebsiteMy)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/bairavaswamy?tab=repositories](https://github.com/bairavaswamy?tab=repositories)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **react,Javascript,Node.js**
+- 🔭 **Full-Stack Developer & SEO Analyst** from Visakhapatnam, India
+- - 💼 Building real-world safety net business websites
+  - - 🌱 Currently excelling in **Node.js, Next.js, SQL, Python, MongoDB**
+    - - 💬 Ask me about **React.js, JavaScript, Node.js, Tailwind CSS, SEO**
+      - - 📫 Reach me at **bairavahoney@gmail.com**
+        - - ⚡ Fun fact: I turn business ideas into fully live digital products!
+         
+          - ---
 
-- 📫 How to reach me **bairavahoney@gmail.com**
+          ## 🌐 Live Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bairavaswamy bondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bairavaswamy bondi" height="30" width="40" /></a>
-<a href="https://instagram.com/bairava honey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bairava honey" height="30" width="40" /></a>
-</p>
+          | Project | Description | Link |
+          |--------|-------------|------|
+          | 🛡️ **EverSafe Safety Nets** | Safety net solutions - flagship product | [eversafesafetynets.com](https://eversafesafetynets.com) |
+          | 🕸️ **Servanni Safety Nets** | Premium safety net services | Live |
+          | 🕸️ **Jyoshna Safety Nets** | Safety net solutions | Live |
+          | 🛠️ **DK Safety Solutions** | Safety & protection services | Live |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+          ---
+
+          ## 🛠️ Tech Stack
+
+          ### 🖥️ Frontend
+          <p align="left">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+                  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+                    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+                      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+          </p>p>
+
+          ### ⚙️ Backend & Database
+          <p align="left">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+                <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          </p>p>
+
+          ### 🔤 Languages
+          <p align="left">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+              <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+          </p>p>
+
+          ### 🧪 Testing & Tools
+          <p align="left">
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+                <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+          </p>p>
+
+          ---
+
+          ## 📊 GitHub Stats
+
+          <div align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=bairavaswamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" height="165"/>
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bairavaswamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="165"/>
+          </div>div>
+
+          <div align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=bairavaswamy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
+          </div>div>
+
+          ---
+
+          ## 🤝 Connect with Me
+
+          <p align="center">
+            <a href="https://linkedin.com/in/bairavaswamy" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>a>
+              <a href="https://instagram.com/bairavaswamy" target="_blank">
+                  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+              </a>a>
+                <a href="mailto:bairavahoney@gmail.com">
+                    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+                </a>a>
+                  <a href="https://eversafesafetynets.com" target="_blank">
+                      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+                  </a>a>
+          </p>p>
+
+          ---
+
+          <div align="center">
+            <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+          </div>div>
